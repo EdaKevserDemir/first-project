@@ -8,7 +8,7 @@ const App=()=>
   return(
     <SafeAreaView style={styles.container}>
      
-    <Card title="Ali" text="Uygulamaya hoşgeldiniz :)"></Card>
+    <Card title="Ayla" text="Uygulamaya hoşgeldiniz :)"></Card>
 
     <Card title="Veli" text="Uygulamaya hoşgeldiniz :)"></Card>
 
